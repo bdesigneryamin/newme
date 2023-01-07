@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.title{
+
+}
+.desc{
+    font-size: 16px;
+    color: #444343;
+    line-height: 26px;
+}
+.h2{
+    font-weight: 700px;
+    font-size: 50px;
+    color: #151414;
+}
+.banner-section{
+    background-image: url(images/banner/banner2.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: right;
+    align-items: center;
+    display: flex; 
+    text-align: right;
+    padding:0 300px;
+    margin-bottom: 130px;
+}
+.banner-text{
+    text-align: right;
+    width: 500px;
+}
+
+.banner-title{
+font-size: 65px;
+font-weight: 900px;
+}
+.banner-desc{}
+.main-btn{
+    padding: 20px 35px;
+    background: #f15b22;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 25px;
+    font-weight: 600px
+    ;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+/* report styles is start  */
+.report{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 130px;
+    margin-bottom: 130px;
+}
+.report-text{
+    width: 400px;
+}
+/* plans styles is start */
+.plans-mtitle{
+    justify-content: center;
+    text-align: center;
+}
+.plan-packages{
+    display: flex;
+    justify-content: space-evenly;
+}
+/* positive mindset styles */
+.positive-mindset{
+    height: 300px;
+    background-image: url(images/watch.png);
+    background-repeat: no-repeat;
+    margin: 130px 230px;
+    /* justify-content: center;
+    align-items: center; */
+    
+}
+.pm-text{
+    padding: 40px;
+    z-index: 2;
+    
+    
+}
+.btn-white{
+    padding: 15px 30px;
+    background: white;
+    color: #f15b22;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;   
+}
+.positive-mindset h2{
+    color: white;
+}
+.overlay{
+    background-image: url(images/gradient2.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 300px;
+    position: absolute;   
+}
+/* Future section styles */
+.future{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #151414;
+    color: white;
+    height: 577px
+}
+.email{
+    text-decoration: none;
+
+}
+.placeholder{
+    padding: 22px;
+    border: none;
+    border-radius: 5px;
+    width: 200px;
+    margin-bottom: 15px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+ 
+
+    
